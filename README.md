@@ -18,8 +18,11 @@ El estudio concluye que la combinación de arquitecturas robustas con una estrat
 
 ## Codigos
 
-#### [Evaluacion_de_modelos_basico.ipynb](https://github.com/luciasalmeron/TFM_Ingenieria_Biomedica_y_Salud_Digital/blob/main/Evaluacion_de_modelos_basico.ipynb)
+#### [Evaluacion_de_modelos_basico.ipynb:](https://github.com/luciasalmeron/TFM_Ingenieria_Biomedica_y_Salud_Digital/blob/main/Evaluacion_de_modelos_basico.ipynb)
+
+Este codigo es...
 
 
+#### [ResNet50_con_Albumentations.ipynb:](https://github.com/luciasalmeron/TFM_Ingenieria_Biomedica_y_Salud_Digital/blob/main/ResNet50_con_Albumentations.ipynb)
 
-#### [ResNet50_con_Albumentations.ipynb](https://github.com/luciasalmeron/TFM_Ingenieria_Biomedica_y_Salud_Digital/blob/main/ResNet50_con_Albumentations.ipynb)
+Este otro codigo es...
