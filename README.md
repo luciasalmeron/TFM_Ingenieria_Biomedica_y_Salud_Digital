@@ -1,5 +1,3 @@
-# TFM_Ingenieria_Biomedica_y_Salud_Digital
-
 # Clasificación y diagnóstico de imágenes médicas por medio de algoritmos de Machine Learning y Deep Learning
 
 Este repositorio contiene el material asociado al Trabajo Final de Máster (TFM) titulado **"Clasificación y diagnóstico de imágenes médicas por medio de algoritmos de Machine Learning y Deep Learning"**, realizado por **Lucía Salmerón Gallar** en el marco del **Máster Universitario en Ingeniería Biomédica y Salud Digital** (Universidad de Sevilla, junio 2025).
@@ -18,3 +16,10 @@ Los resultados finales tras el fine-tuning y el uso de Albumentations destacaron
 
 El estudio concluye que la combinación de arquitecturas robustas con una estrategia de entrenamiento cuidadosa, incluyendo balanceo de clases y aumento de datos avanzado, es fundamental para el desarrollo de modelos de IA clínicamente útiles en dermatología. Se reconoce que, si bien los resultados son prometedores en un entorno controlado, se necesitan validaciones adicionales en escenarios clínicos reales y una integración con sistemas de soporte a la decisión médica para su aplicación práctica.
 
+## Codigos
+
+#### [Evaluacion_de_modelos_basico.ipynb](https://github.com/luciasalmeron/TFM_Ingenieria_Biomedica_y_Salud_Digital/blob/main/Evaluacion_de_modelos_basico.ipynb)
+
+
+
+#### [ResNet50_con_Albumentations.ipynb](https://github.com/luciasalmeron/TFM_Ingenieria_Biomedica_y_Salud_Digital/blob/main/ResNet50_con_Albumentations.ipynb)
