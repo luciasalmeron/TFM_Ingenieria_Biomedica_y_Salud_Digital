@@ -20,18 +20,20 @@ El estudio concluye que la combinación de arquitecturas robustas con una estrat
 
 #### [Evaluacion_de_modelos_basico.ipynb:](https://github.com/luciasalmeron/TFM_Ingenieria_Biomedica_y_Salud_Digital/blob/main/Evaluacion_de_modelos_basico.ipynb)
 
-Este codigo es...
+Este código es el punto de partida para la evaluación de modelos de clasificación de imágenes dermatológicas. Incluye el entrenamiento de arquitecturas base sin técnicas adicionales de mejora ni balanceo de clases, y proporciona una primera comparación de métricas como precisión, sensibilidad y exactitud.
 
 
 #### [Evaluacion_de_modelos_balanceo_de_clases.ipynb:](https://github.com/luciasalmeron/TFM_Ingenieria_Biomedica_y_Salud_Digital/blob/main/Evaluacion_de_modelos_balanceo_de_clases.ipynb)
 
-Este otro codigo es...
+Este otro código es una extensión del anterior, en el que se aplican técnicas de balanceo de clases como el uso de pesos ajustados (class_weight) y sobremuestreo. Su objetivo es mejorar el rendimiento del modelo frente a conjuntos de datos desbalanceados.
+
 
 #### [Evaluacion_de_modelos_fine_tuning.ipynb](https://github.com/luciasalmeron/TFM_Ingenieria_Biomedica_y_Salud_Digital/blob/main/Evaluacion_de_modelos_fine_tuning.ipynb)
 
-Este otro codigo es...
+Este otro código es una continuación en la mejora de los modelos. Se centra en aplicar fine-tuning sobre redes preentrenadas, desbloqueando ciertas capas para permitir un ajuste más fino a las características específicas del conjunto de imágenes dermatológicas.
 
 
 #### [ResNet50_con_Albumentations.ipynb:](https://github.com/luciasalmeron/TFM_Ingenieria_Biomedica_y_Salud_Digital/blob/main/ResNet50_con_Albumentations.ipynb)
 
-Este otro codigo es...
+Este otro código es el experimento final en el que se emplea la red ResNet50 junto con la librería Albumentations para aplicar técnicas avanzadas de aumento de datos. También se utiliza Keras Tuner para optimizar hiperparámetros. Este enfoque busca obtener el mejor rendimiento posible del modelo.
+
